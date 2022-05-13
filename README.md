@@ -3,4 +3,4 @@ QBCore mine job FREEEEE 🥴🥴🥴
 
 *
 
-video : 
+video : soon
