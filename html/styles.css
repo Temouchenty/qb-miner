@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+div#checklist {
+  display: none;
+  position: absolute;
+  top: 76%;
+  left: 41.2%;
+  width: 10%;
+  max-width: 41%;
+  height: 70%;
+  max-height: 15%;
+  background: #232833;
+}
+
+h1 {
+  color: white!important;
+  word-break: break-all!important;
+  font-family: 'Roboto', sans-serif;
+  text-align: center!important;
+  font-size: 1.7vh!important;
+  font-weight: 400!important;
+  line-height: 1.2!important;
+  position: absolute;
+  top: 16%;
+  left: 26.2%;
+  max-width: 48%;
+  max-height: 20%;
+}
+
+h2 {
+  color: white!important;
+  word-break: break-all!important;
+  font-family: 'Roboto', sans-serif;
+  text-align: center!important;
+  font-size: 1.7vh!important;
+  font-weight: 400!important;
+  line-height: 1.2!important;
+  position: absolute;
+  top: 53%;
+  left: 19.2%;
+  max-width: 62%;
+  max-height: 20%;
+}
+
+
+.styled {
+  border: 0;
+  line-height: 1.5;
+  padding: 0 5px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 2px;
+  background-color: #70f1458f;
+  /* background-image: linear-gradient(to top left,
+                                    rgba(0, 0, 0, .2),
+                                    rgba(0, 0, 0, .2) 30%,
+                                    rgba(0, 0, 0, 0)); */
+  /* box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+              inset -2px -2px 3px rgba(0, 0, 0, .6); */
+}
+
+.styled:hover {
+  background-color: rgba(255, 0, 0, 0.356);
+}
+
+.styled:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+              inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
