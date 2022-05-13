@@ -3,4 +3,4 @@ QBCore mine job FREEEEE 🥴🥴🥴
 
 *
 
-video : soon
+video : https://www.youtube.com/watch?v=yDPA0XjhK5M 
